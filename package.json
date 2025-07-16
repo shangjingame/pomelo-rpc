@@ -1,12 +1,12 @@
 {
 	"name": "pomelo-rpc",
-	"version": "1.0.11",
+	"version": "1.0.12",
 	"dependencies": {
 		"mqtt-connection": "4.1.0",
 		"crc": "3.8.0",
 		"pomelo-loader": "0.0.7",
 		"stream-pkg": "0.0.5",
-		"pomelo-logger": "git://github.com/silverera/pomelo-logger.git#v0.1.8",
+		"pomelo-logger": "https://github.com/shangjingame/pomelo-logger.git#v0.2.0",
 		"node-uuid": "1.4.8",
 		"async": "3.2.0",
 		"bearcat-buffer": "0.1.x"
